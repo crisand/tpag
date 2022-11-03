@@ -15,7 +15,8 @@ The app does use third-party services that may collect information used to ident
 Link to Terms and Conditions and Privacy Policy of third-party service providers used by the app
 
 Google Play Services - https://play.google.com/about/play-terms/index.html
-AdMob - https://developers.google.com/admob/terms
+Firebase - https://firebase.google.com/support/privacy
+Meta - https://www.facebook.com/privacy/policy/
 Facebook - https://www.facebook.com/terms.php
 Google - https://policies.google.com/privacy?hl=en-US
 
@@ -53,7 +54,7 @@ Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-03-04
+This policy is effective as of 2022-11-10
 
 Contact Us
 
