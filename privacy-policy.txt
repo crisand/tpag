@@ -20,6 +20,10 @@ Meta - https://www.facebook.com/privacy/policy/
 Facebook - https://www.facebook.com/terms.php
 Google - https://policies.google.com/privacy?hl=en-US
 
+Tracking
+
+This app uses tracking for Analytics from Firebase and Event Analytics from Meta solely for analytics and for tracking app installations 
+
 Collected Data
 
 I want to inform you that this service is not collecting any data of your navigation on the app or any other use of this service.
