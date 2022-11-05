@@ -22,7 +22,7 @@ Google - https://policies.google.com/privacy?hl=en-US
 
 Tracking
 
-This app uses tracking for Analytics from Firebase and Event Analytics from Meta solely for analytics and for tracking app installations 
+This app does not track the user, the only things that are recorded are app events like instalation on device and other events purely for Analytics managers  
 
 Collected Data
 
